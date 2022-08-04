@@ -1,4 +1,4 @@
-# introdução ao Angular - DIO Digital Innovation One
+# Introdução ao Angular - DIO Digital Innovation One
 
 Projeto realizado durante estudos em participação do Bootcamp Santander Fullstack Developer 2022 
 
